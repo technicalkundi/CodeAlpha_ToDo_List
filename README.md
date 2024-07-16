@@ -18,12 +18,3 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 ![Screenshot 3](./img/2.png)
 ![Screenshot 4](./img/3.png)
 ![Screenshot 5](./img/4.png)
-
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/technicalkundi/CodeAlpha_ToDo_List.git
