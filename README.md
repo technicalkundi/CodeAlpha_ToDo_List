@@ -13,11 +13,11 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 
 ## Screenshots
 
-![Screenshot 1](![0](https://github.com/user-attachments/assets/28c5adfe-9a8c-49a5-9685-130df9a3af4a))
-![Screenshot 2](![1](https://github.com/user-attachments/assets/2cae7486-3622-430c-9fa9-da5f808e4f00))
-![Screenshot 3](![2](https://github.com/user-attachments/assets/027648b3-6487-41f2-8acc-ed90e59d555f))
-![Screenshot 4](![3](https://github.com/user-attachments/assets/028b216e-4cd3-43c5-bbf6-de1601dec8cc))
-![Screenshot 5](![4](https://github.com/user-attachments/assets/6eaaea4c-c818-4f08-b0d0-cae283512972))
+![Screenshot 1](![0](./img/0.png))
+![Screenshot 2](![1](./img/1.png))
+![Screenshot 3](![2](./img/2.png))
+![Screenshot 4](![3](./img/3.png))
+![Screenshot 5](![4](./img/4.png))
 
 ## Getting Started
 
